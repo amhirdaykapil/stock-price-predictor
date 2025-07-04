@@ -7,13 +7,13 @@ This project is a **Stock Price Predictor** that uses **Linear Regression** to p
 ## 📸 Screenshots
 
 ### 🖥️ Streamlit Web App
-![Web App Homepage](images/app_homepage.png)
+![Web App Homepage](screenshots/app_homepage.png)
 
 ### 📊 Graph
-![Graph](images/graph.png)
+![Graph](screenshots/graph.png)
 
 ### 🖥️ Prediction Graph
-![Prediction Graph](images/prediction_example.png)
+![Prediction Graph](screenshots/prediction_example.png)
 
 ---
 
